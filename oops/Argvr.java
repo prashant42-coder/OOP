@@ -1,4 +1,4 @@
-// Aur
+// array Concept is present 
 class Cal{
 public int add(int...n){// it like array {1,3,3,4,6,5,8,0} 
         int sum=0;
